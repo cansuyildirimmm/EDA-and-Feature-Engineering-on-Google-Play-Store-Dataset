@@ -1,4 +1,3 @@
-# EDA-and-Feature-Engineering-on-Google-Play-Store-Dataset
 # 📱 EDA and Feature Engineering on Google Play Store Dataset  
 **Google Play Store Verisinde Veri Keşfi (EDA) ve Özellik Mühendisliği)**
 
